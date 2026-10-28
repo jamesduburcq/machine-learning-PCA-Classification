@@ -124,4 +124,7 @@ python nos_visages.py
 ---
 
 ## 👥 Auteurs
-Projet réalisé par **James**, **Orion** et **Raphaël**.
+projet réalisé par :
+- **James Duburcq** — [@jamesduburcq](https://github.com/jamesduburcq)
+- **Raphaël Rideau** 
+- **Orion Routhier** - [@OrionRouthier](https://github.com/OrionRouthier)
